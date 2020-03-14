@@ -1,0 +1,23 @@
+italy = {
+  "feb20" : {
+    "cases" : 4,
+  },
+  "feb21" : {
+    "cases" : 21,
+  },
+  "feb22" : {
+    "cases" : 79,
+  },
+  "feb23" : {
+    "cases" : 157,
+  },
+  "feb24" : {
+    "cases" : 229,
+  },
+  "feb25" : {
+    "cases" : 323,
+  },
+  "feb26" : {
+    "cases" : 470,
+  },
+}
