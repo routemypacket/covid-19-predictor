@@ -1,23 +1,71 @@
-italy = {
+{
   "feb20" : {
-    "cases" : 4,
+    "cases" : 4
   },
   "feb21" : {
-    "cases" : 21,
+    "cases" : 21
   },
   "feb22" : {
-    "cases" : 79,
+    "cases" : 79
   },
   "feb23" : {
-    "cases" : 157,
+    "cases" : 157
   },
   "feb24" : {
-    "cases" : 229,
+    "cases" : 229
   },
   "feb25" : {
-    "cases" : 323,
+    "cases" : 323
   },
   "feb26" : {
-    "cases" : 470,
+    "cases" : 470
   },
+  "feb27" : { 
+    "cases" : 655
+  },
+  "feb28" : { 
+    "cases" : 889
+  },
+  "feb29" : { 
+    "cases" : 1128
+  },
+  "mar01" : { 
+    "cases" : 1701
+  },
+  "mar02" : {
+    "cases" : 2036
+  },
+  "mar03" : {
+    "cases" : 2502
+  },
+  "mar04" : {
+    "cases" : 3089
+  },
+  "mar05" : {
+    "cases" : 3858
+  },
+  "mar06" : {
+    "cases" : 4636
+  },
+  "mar07" : {
+    "cases" : 5883
+  },
+  "mar08" : {
+    "cases" : 7375
+  },
+  "mar09" : {
+    "cases" : 9172
+  },
+  "mar10" : {
+    "cases" : 10149
+  },
+  "mar11" : {
+    "cases" : 12462
+  },
+  "mar12" : {
+    "cases" : 15113
+  },
+  "mar13" : {
+    "cases" : 17660
+  }
 }
