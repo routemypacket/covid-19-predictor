@@ -1,0 +1,74 @@
+{
+  "feb20" : {
+    "cases" : 9
+  },
+  "feb21" : {
+    "cases" : 9
+  },
+  "feb22" : {
+    "cases" : 9
+  },
+  "feb23" : {
+    "cases" : 13
+  },
+  "feb24" : {
+    "cases" : 13
+  },
+  "feb25" : {
+    "cases" : 13
+  },
+  "feb26" : {
+    "cases" : 13
+  },
+  "feb27" : { 
+    "cases" : 16
+  },
+  "feb28" : { 
+    "cases" : 20
+  },
+  "feb29" : { 
+    "cases" : 23
+  },
+  "mar01" : { 
+    "cases" : 36
+  },
+  "mar02" : {
+    "cases" : 39
+  },
+  "mar03" : {
+    "cases" : 51
+  },
+  "mar04" : {
+    "cases" : 87
+  },
+  "mar05" : {
+    "cases" : 116
+  },
+  "mar06" : {
+    "cases" : 164
+  },
+  "mar07" : {
+    "cases" : 209
+  },
+  "mar08" : {
+    "cases" : 278
+  },
+  "mar09" : {
+    "cases" : 321
+  },
+  "mar10" : {
+    "cases" : 383
+  },
+  "mar11" : {
+    "cases" : 460
+  },
+  "mar12" : {
+    "cases" : 590
+  },
+  "mar13" : {
+    "cases" : 798
+  },
+  "mar14" : {
+    "cases" : 1140
+  }
+}
