@@ -1,12 +1,11 @@
 # !/usr/bin/env/python3
 import json
 import sys
-import re
 from decimal import Decimal
 from numpy import mean
 
-with open('./data/covid.json') as f:
-  val = json.load(f)
+with open('./data/'+ sys.argv[1] +'.json') as f:
+  data = json.load(f)
 
 # define a value of a to multiply with the first value of cases in for loop
 a = 1
@@ -15,23 +14,21 @@ TWOPLACES = Decimal(10) ** -2
 # define list to be used to stope all exp values (exponential values)
 exp_list = []
 
-for x in val:
-    if x['Country/Region'] == sys.argv[1]:
-        for dates, curcases in x.items():
-            # pick fields with dates only
-            q = re.findall(r'\d+\/\d+\/\d+', dates)
-            if q:
-                curcases = int(curcases)
-                #calculate exponential value
-                exp = curcases / a
-                exp = (Decimal(exp)).quantize(TWOPLACES)
-                # store the 1.x value seperately
-                exp = exp - 1
-                exp = str(exp)
-                exp = float(exp)
-                exp_list.append(exp)
-                if curcases != 0:
-                    a = curcases
+#x = thisdict["model"]
+
+#x = thisdict.get("model")
+
+for x,y in data.items():
+    curcases = y.get("cases")
+    #calculate exponential value
+    exp = curcases / a
+    exp = (Decimal(exp)).quantize(TWOPLACES)
+    # store the 1.x value seperately
+    exp = exp - 1
+    exp = str(exp)
+    exp = float(exp)
+    exp_list.append(exp)
+    a = curcases
 
 #store the value of last recorded cases:
 cases_today = a

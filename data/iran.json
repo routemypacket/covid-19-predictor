@@ -1,74 +1,74 @@
 {
   "feb20" : {
-    "cases" : 4
+    "cases" : 5
   },
   "feb21" : {
-    "cases" : 21
+    "cases" : 18
   },
   "feb22" : {
-    "cases" : 79
+    "cases" : 29
   },
   "feb23" : {
-    "cases" : 157
+    "cases" : 43
   },
   "feb24" : {
-    "cases" : 229
+    "cases" : 61
   },
   "feb25" : {
-    "cases" : 323
+    "cases" : 95
   },
   "feb26" : {
-    "cases" : 470
+    "cases" : 139
   },
   "feb27" : { 
-    "cases" : 655
+    "cases" : 245
   },
   "feb28" : { 
-    "cases" : 889
+    "cases" : 388
   },
   "feb29" : { 
-    "cases" : 1128
+    "cases" : 593
   },
   "mar01" : { 
-    "cases" : 1701
+    "cases" : 978
   },
   "mar02" : {
-    "cases" : 2036
+    "cases" : 1501
   },
   "mar03" : {
-    "cases" : 2502
+    "cases" : 2336
   },
   "mar04" : {
-    "cases" : 3089
+    "cases" : 2922
   },
   "mar05" : {
-    "cases" : 3858
+    "cases" : 3513
   },
   "mar06" : {
-    "cases" : 4636
+    "cases" : 4747
   },
   "mar07" : {
-    "cases" : 5883
+    "cases" : 5823
   },
   "mar08" : {
-    "cases" : 7375
+    "cases" : 6566
   },
   "mar09" : {
-    "cases" : 9172
+    "cases" : 7161
   },
   "mar10" : {
-    "cases" : 10149
+    "cases" : 8042
   },
   "mar11" : {
-    "cases" : 12462
+    "cases" : 9000
   },
   "mar12" : {
-    "cases" : 15113
+    "cases" : 10075
   },
   "mar13" : {
-    "cases" : 17660
+    "cases" : 11364
   },
   "mar14" : {
-    "cases" : 21157
+    "cases" : 12729 
   }
 }
