@@ -3,7 +3,7 @@ import csv
 import json
 
 x = []
-csvFilePath = "/home/deadtree/code/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv"
+csvFilePath = "./COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv"
 jsonFilePath = "./data/covid.json"
 with open (csvFilePath) as csvFile:
     csvReader = csv.DictReader(csvFile)
