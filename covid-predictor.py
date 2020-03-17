@@ -9,6 +9,7 @@ import clone_jh_repo
 import csv_to_json
 
 print ("Calculating expected cases rises in" + sys.argv[1] + "tomorrow, in two weeks and in one month")
+
 # define a value of a to multiply with the first value of cases in for loop
 a = 1
 # define a calue to reduce decimals to two places
@@ -54,6 +55,7 @@ def main(a,TWOPLACES,exp_list,requested_country):
 def calculate_exp(a,TWOPLACES,exp_list,x):
     # Store current country's name
     country = x['Country/Region']
+    province = x['Province/State']
     for dates, curcases in x.items():
         # pick fields with dates only
         q = re.findall(r'\d+\/\d+\/\d+', dates)
@@ -70,10 +72,10 @@ def calculate_exp(a,TWOPLACES,exp_list,x):
            if curcases != 0:
                a = curcases
     # Run Prediction Algorithm
-    predict(exp_list,a,country)
+    predict(exp_list,a,country,province)
 
 
-def predict (exp_list,a,country):
+def predict (exp_list,a,country,province):
     TWOPLACES = Decimal(10) ** -2
     #store the value of last recorded cases:
     cases_today = a
@@ -140,7 +142,7 @@ def predict (exp_list,a,country):
     country_data["cases_today"] = cases_today
     country_data["predicted_increase_tomorrow"] = predicted_increase 
     country_data["predicted_confirmed_cases_tomorrow"] = total_cases
-    country_data["avg_exponential_increase"] = avg_exp_percentage 
+    country_data["avg_exponential_increase"] = avg_exp_percentage
     country_data["predited_cases_one_week"] = avg_one_week
     country_data["predited_cases_two_weeks"] = avg_two_weeks
     country_data["predited_cases_one_month"] = avg_one_month
@@ -148,6 +150,8 @@ def predict (exp_list,a,country):
     countries_affected[country] = country_data
 
     # Append to list for human readable data
+    if province:
+        countries_data_list.append("*****Country: " + province + ", " + country + "*****")
     countries_data_list.append("*****Country: " + country + "*****")
     countries_data_list.append("Total cases today: " + str(cases_today))
     countries_data_list.append("Predicted increase tomorrow: " + str(predicted_increase))
