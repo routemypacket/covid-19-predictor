@@ -39,7 +39,6 @@ Predicted cases in one week: 2369
 Predicted cases in two weeks: 9922
 Predicted cases in one month: 261910
 *****Country: British Columbia, Canada*****
-*****Country: Canada*****
 Total cases today: 103
 Predicted increase tomorrow: 18
 Total predicted confirmed cases for tomorrow: 121
@@ -48,7 +47,6 @@ Predicted cases in one week: 332
 Predicted cases in two weeks: 1070
 Predicted cases in one month: 15536
 *****Country: New South Wales, Australia*****
-*****Country: Australia*****
 Total cases today: 171
 Predicted increase tomorrow: 36
 Total predicted confirmed cases for tomorrow: 207
@@ -57,7 +55,6 @@ Predicted cases in one week: 668
 Predicted cases in two weeks: 2612
 Predicted cases in one month: 58923
 *****Country: Victoria, Australia*****
-*****Country: Australia*****
 Total cases today: 71
 Predicted increase tomorrow: 16
 Total predicted confirmed cases for tomorrow: 87
@@ -66,7 +63,6 @@ Predicted cases in one week: 304
 Predicted cases in two weeks: 1302
 Predicted cases in one month: 36224
 *****Country: Queensland, Australia*****
-*****Country: Australia*****
 Total cases today: 68
 Predicted increase tomorrow: 13
 Total predicted confirmed cases for tomorrow: 81
@@ -155,7 +151,6 @@ Predicted cases in one week: 111254
 Predicted cases in two weeks: 1244971
 Predicted cases in one month: 310824103
 *****Country: South Australia, Australia*****
-*****Country: Australia*****
 Total cases today: 29
 Predicted increase tomorrow: 5
 Total predicted confirmed cases for tomorrow: 34
@@ -180,7 +175,6 @@ Predicted cases in one week: 1238
 Predicted cases in two weeks: 10227
 Predicted cases in one month: 1274653
 *****Country: From Diamond Princess, Australia*****
-*****Country: Australia*****
 Total cases today: 8
 Predicted increase tomorrow: -8
 Total predicted confirmed cases for tomorrow: 0
@@ -397,7 +391,6 @@ Predicted cases in one week: 3
 Predicted cases in two weeks: 7
 Predicted cases in one month: 34
 *****Country: Western Australia, Australia*****
-*****Country: Australia*****
 Total cases today: 28
 Predicted increase tomorrow: 7
 Total predicted confirmed cases for tomorrow: 35
@@ -494,7 +487,6 @@ Predicted cases in one week: 3
 Predicted cases in two weeks: 7
 Predicted cases in one month: 34
 *****Country: Tasmania, Australia*****
-*****Country: Australia*****
 Total cases today: 7
 Predicted increase tomorrow: 1
 Total predicted confirmed cases for tomorrow: 8
@@ -575,7 +567,6 @@ Predicted cases in one week: 373
 Predicted cases in two weeks: 3579
 Predicted cases in one month: 626433
 *****Country: Northern Territory, Australia*****
-*****Country: Australia*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -744,7 +735,6 @@ Predicted cases in one week: 66
 Predicted cases in two weeks: 551
 Predicted cases in one month: 69506
 *****Country: Ontario, Canada*****
-*****Country: Canada*****
 Total cases today: 177
 Predicted increase tomorrow: 42
 Total predicted confirmed cases for tomorrow: 219
@@ -753,7 +743,6 @@ Predicted cases in one week: 797
 Predicted cases in two weeks: 3596
 Predicted cases in one month: 112363
 *****Country: Alberta, Canada*****
-*****Country: Canada*****
 Total cases today: 56
 Predicted increase tomorrow: 32
 Total predicted confirmed cases for tomorrow: 88
@@ -762,7 +751,6 @@ Predicted cases in one week: 1358
 Predicted cases in two weeks: 32948
 Predicted cases in one month: 48210188
 *****Country: Quebec, Canada*****
-*****Country: Canada*****
 Total cases today: 50
 Predicted increase tomorrow: 21
 Total predicted confirmed cases for tomorrow: 71
@@ -795,7 +783,6 @@ Predicted cases in one week: 9004
 Predicted cases in two weeks: 1501428
 Predicted cases in one month: 180089609295
 *****Country: Washington, US*****
-*****Country: US*****
 Total cases today: 904
 Predicted increase tomorrow: 23902
 Total predicted confirmed cases for tomorrow: 24806
@@ -804,7 +791,6 @@ Predicted cases in one week: 10591755991361
 Predicted cases in two weeks: 124098777633352717434880
 Predicted cases in one month: 12828221337495666954085933945961613624805949440
 *****Country: New York, US*****
-*****Country: US*****
 Total cases today: 967
 Predicted increase tomorrow: 16535
 Total predicted confirmed cases for tomorrow: 17502
@@ -813,7 +799,6 @@ Predicted cases in one week: 615426932660
 Predicted cases in two weeks: 391675604388612866048
 Predicted cases in one month: 51973710157359033596534799919818389585920
 *****Country: California, US*****
-*****Country: US*****
 Total cases today: 557
 Predicted increase tomorrow: 7883
 Total predicted confirmed cases for tomorrow: 8440
@@ -822,7 +807,6 @@ Predicted cases in one week: 102175214425
 Predicted cases in two weeks: 18742862554598146048
 Predicted cases in one month: 144815114550991658642606327872486375424
 *****Country: Massachusetts, US*****
-*****Country: US*****
 Total cases today: 197
 Predicted increase tomorrow: 1749
 Total predicted confirmed cases for tomorrow: 1946
@@ -831,7 +815,6 @@ Predicted cases in one week: 1812926399
 Predicted cases in two weeks: 16683767150084592
 Predicted cases in one month: 137978593232827536738506713858048
 *****Country: Diamond Princess, US*****
-*****Country: US*****
 Total cases today: 47
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 47
@@ -840,7 +823,6 @@ Predicted cases in one week: 48
 Predicted cases in two weeks: 49
 Predicted cases in one month: 53
 *****Country: Grand Princess, US*****
-*****Country: US*****
 Total cases today: 20
 Predicted increase tomorrow: 39
 Total predicted confirmed cases for tomorrow: 59
@@ -849,7 +831,6 @@ Predicted cases in one week: 43232
 Predicted cases in two weeks: 93451347
 Predicted cases in one month: 3916830675596355
 *****Country: Georgia, US*****
-*****Country: US*****
 Total cases today: 121
 Predicted increase tomorrow: 185
 Total predicted confirmed cases for tomorrow: 306
@@ -858,7 +839,6 @@ Predicted cases in one week: 81176
 Predicted cases in two weeks: 54460035
 Predicted cases in one month: 157392374257562
 *****Country: Colorado, US*****
-*****Country: US*****
 Total cases today: 160
 Predicted increase tomorrow: 228
 Total predicted confirmed cases for tomorrow: 388
@@ -867,7 +847,6 @@ Predicted cases in one week: 79132
 Predicted cases in two weeks: 39137324
 Predicted cases in one month: 56343507415742
 *****Country: Florida, US*****
-*****Country: US*****
 Total cases today: 155
 Predicted increase tomorrow: 215
 Total predicted confirmed cases for tomorrow: 370
@@ -876,7 +855,6 @@ Predicted cases in one week: 69651
 Predicted cases in two weeks: 31298929
 Predicted cases in one month: 36192006110805
 *****Country: New Jersey, US*****
-*****Country: US*****
 Total cases today: 178
 Predicted increase tomorrow: 256
 Total predicted confirmed cases for tomorrow: 434
@@ -885,7 +863,6 @@ Predicted cases in one week: 91916
 Predicted cases in two weeks: 47464500
 Predicted cases in one month: 75414244531608
 *****Country: Oregon, US*****
-*****Country: US*****
 Total cases today: 39
 Predicted increase tomorrow: 46
 Total predicted confirmed cases for tomorrow: 86
@@ -894,7 +871,6 @@ Predicted cases in one week: 9883
 Predicted cases in two weeks: 2504868
 Predicted cases in one month: 782208302178
 *****Country: Texas, US*****
-*****Country: US*****
 Total cases today: 85
 Predicted increase tomorrow: 95
 Total predicted confirmed cases for tomorrow: 180
@@ -903,7 +879,6 @@ Predicted cases in one week: 16741
 Predicted cases in two weeks: 3297340
 Predicted cases in one month: 578686862216
 *****Country: Illinois, US*****
-*****Country: US*****
 Total cases today: 105
 Predicted increase tomorrow: 113
 Total predicted confirmed cases for tomorrow: 218
@@ -912,7 +887,6 @@ Predicted cases in one week: 17508
 Predicted cases in two weeks: 2919444
 Predicted cases in one month: 350174240297
 *****Country: Pennsylvania, US*****
-*****Country: US*****
 Total cases today: 77
 Predicted increase tomorrow: 79
 Total predicted confirmed cases for tomorrow: 156
@@ -921,7 +895,6 @@ Predicted cases in one week: 10900
 Predicted cases in two weeks: 1543261
 Predicted cases in one month: 127336273529
 *****Country: Iowa, US*****
-*****Country: US*****
 Total cases today: 23
 Predicted increase tomorrow: 12
 Total predicted confirmed cases for tomorrow: 35
@@ -930,7 +903,6 @@ Predicted cases in one week: 441
 Predicted cases in two weeks: 8462
 Predicted cases in one month: 7241410
 *****Country: Maryland, US*****
-*****Country: US*****
 Total cases today: 41
 Predicted increase tomorrow: 24
 Total predicted confirmed cases for tomorrow: 65
@@ -939,7 +911,6 @@ Predicted cases in one week: 1053
 Predicted cases in two weeks: 27060
 Predicted cases in one month: 45154141
 *****Country: North Carolina, US*****
-*****Country: US*****
 Total cases today: 38
 Predicted increase tomorrow: 19
 Total predicted confirmed cases for tomorrow: 57
@@ -948,7 +919,6 @@ Predicted cases in one week: 715
 Predicted cases in two weeks: 13476
 Predicted cases in one month: 11057578
 *****Country: South Carolina, US*****
-*****Country: US*****
 Total cases today: 33
 Predicted increase tomorrow: 15
 Total predicted confirmed cases for tomorrow: 48
@@ -957,7 +927,6 @@ Predicted cases in one week: 518
 Predicted cases in two weeks: 8135
 Predicted cases in one month: 4405143
 *****Country: Tennessee, US*****
-*****Country: US*****
 Total cases today: 52
 Predicted increase tomorrow: 28
 Total predicted confirmed cases for tomorrow: 80
@@ -966,7 +935,6 @@ Predicted cases in one week: 1122
 Predicted cases in two weeks: 24242
 Predicted cases in one month: 27186749
 *****Country: Virginia, US*****
-*****Country: US*****
 Total cases today: 49
 Predicted increase tomorrow: 26
 Total predicted confirmed cases for tomorrow: 75
@@ -975,7 +943,6 @@ Predicted cases in one week: 1053
 Predicted cases in two weeks: 22638
 Predicted cases in one month: 25127369
 *****Country: Arizona, US*****
-*****Country: US*****
 Total cases today: 18
 Predicted increase tomorrow: 5
 Total predicted confirmed cases for tomorrow: 23
@@ -984,7 +951,6 @@ Predicted cases in one week: 131
 Predicted cases in two weeks: 965
 Predicted cases in one month: 91415
 *****Country: Indiana, US*****
-*****Country: US*****
 Total cases today: 25
 Predicted increase tomorrow: 9
 Total predicted confirmed cases for tomorrow: 34
@@ -993,7 +959,6 @@ Predicted cases in one week: 231
 Predicted cases in two weeks: 2136
 Predicted cases in one month: 344780
 *****Country: Kentucky, US*****
-*****Country: US*****
 Total cases today: 21
 Predicted increase tomorrow: 7
 Total predicted confirmed cases for tomorrow: 28
@@ -1002,7 +967,6 @@ Predicted cases in one week: 168
 Predicted cases in two weeks: 1345
 Predicted cases in one month: 156160
 *****Country: District of Columbia, US*****
-*****Country: US*****
 Total cases today: 22
 Predicted increase tomorrow: 6
 Total predicted confirmed cases for tomorrow: 28
@@ -1011,7 +975,6 @@ Predicted cases in one week: 136
 Predicted cases in two weeks: 847
 Predicted cases in one month: 55038
 *****Country: Nevada, US*****
-*****Country: US*****
 Total cases today: 45
 Predicted increase tomorrow: 14
 Total predicted confirmed cases for tomorrow: 59
@@ -1020,7 +983,6 @@ Predicted cases in one week: 317
 Predicted cases in two weeks: 2241
 Predicted cases in one month: 195054
 *****Country: New Hampshire, US*****
-*****Country: US*****
 Total cases today: 17
 Predicted increase tomorrow: 3
 Total predicted confirmed cases for tomorrow: 20
@@ -1029,7 +991,6 @@ Predicted cases in one week: 53
 Predicted cases in two weeks: 170
 Predicted cases in one month: 2376
 *****Country: Minnesota, US*****
-*****Country: US*****
 Total cases today: 54
 Predicted increase tomorrow: 14
 Total predicted confirmed cases for tomorrow: 68
@@ -1038,7 +999,6 @@ Predicted cases in one week: 294
 Predicted cases in two weeks: 1602
 Predicted cases in one month: 77175
 *****Country: Nebraska, US*****
-*****Country: US*****
 Total cases today: 18
 Predicted increase tomorrow: 2
 Total predicted confirmed cases for tomorrow: 20
@@ -1047,7 +1007,6 @@ Predicted cases in one week: 42
 Predicted cases in two weeks: 102
 Predicted cases in one month: 742
 *****Country: Ohio, US*****
-*****Country: US*****
 Total cases today: 50
 Predicted increase tomorrow: 14
 Total predicted confirmed cases for tomorrow: 64
@@ -1056,7 +1015,6 @@ Predicted cases in one week: 305
 Predicted cases in two weeks: 1865
 Predicted cases in one month: 116698
 *****Country: Rhode Island, US*****
-*****Country: US*****
 Total cases today: 21
 Predicted increase tomorrow: 4
 Total predicted confirmed cases for tomorrow: 25
@@ -1065,7 +1023,6 @@ Predicted cases in one week: 73
 Predicted cases in two weeks: 254
 Predicted cases in one month: 4398
 *****Country: Wisconsin, US*****
-*****Country: US*****
 Total cases today: 47
 Predicted increase tomorrow: 13
 Total predicted confirmed cases for tomorrow: 60
@@ -1074,7 +1031,6 @@ Predicted cases in one week: 263
 Predicted cases in two weeks: 1473
 Predicted cases in one month: 75546
 *****Country: Connecticut, US*****
-*****Country: US*****
 Total cases today: 30
 Predicted increase tomorrow: 5
 Total predicted confirmed cases for tomorrow: 35
@@ -1083,7 +1039,6 @@ Predicted cases in one week: 90
 Predicted cases in two weeks: 273
 Predicted cases in one month: 3418
 *****Country: Hawaii, US*****
-*****Country: US*****
 Total cases today: 7
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 6
@@ -1092,7 +1047,6 @@ Predicted cases in one week: 5
 Predicted cases in two weeks: 4
 Predicted cases in one month: 2
 *****Country: Oklahoma, US*****
-*****Country: US*****
 Total cases today: 10
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 10
@@ -1101,7 +1055,6 @@ Predicted cases in one week: 11
 Predicted cases in two weeks: 12
 Predicted cases in one month: 17
 *****Country: Utah, US*****
-*****Country: US*****
 Total cases today: 39
 Predicted increase tomorrow: 8
 Total predicted confirmed cases for tomorrow: 47
@@ -1142,7 +1095,6 @@ Predicted cases in one week: 1934
 Predicted cases in two weeks: 68054
 Predicted cases in one month: 232878913
 *****Country: Kansas, US*****
-*****Country: US*****
 Total cases today: 11
 Predicted increase tomorrow: 2
 Total predicted confirmed cases for tomorrow: 13
@@ -1151,7 +1103,6 @@ Predicted cases in one week: 38
 Predicted cases in two weeks: 137
 Predicted cases in one month: 2483
 *****Country: Louisiana, US*****
-*****Country: US*****
 Total cases today: 136
 Predicted increase tomorrow: 93
 Total predicted confirmed cases for tomorrow: 229
@@ -1160,7 +1111,6 @@ Predicted cases in one week: 5288
 Predicted cases in two weeks: 205660
 Predicted cases in one month: 885098054
 *****Country: Missouri, US*****
-*****Country: US*****
 Total cases today: 6
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 5
@@ -1169,7 +1119,6 @@ Predicted cases in one week: 4
 Predicted cases in two weeks: 2
 Predicted cases in one month: 1
 *****Country: Vermont, US*****
-*****Country: US*****
 Total cases today: 12
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 12
@@ -1178,7 +1127,6 @@ Predicted cases in one week: 18
 Predicted cases in two weeks: 27
 Predicted cases in one month: 68
 *****Country: Alaska, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -1187,7 +1135,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Arkansas, US*****
-*****Country: US*****
 Total cases today: 22
 Predicted increase tomorrow: 5
 Total predicted confirmed cases for tomorrow: 27
@@ -1196,7 +1143,6 @@ Predicted cases in one week: 117
 Predicted cases in two weeks: 631
 Predicted cases in one month: 29294
 *****Country: Delaware, US*****
-*****Country: US*****
 Total cases today: 8
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 7
@@ -1205,7 +1151,6 @@ Predicted cases in one week: 6
 Predicted cases in two weeks: 6
 Predicted cases in one month: 4
 *****Country: Idaho, US*****
-*****Country: US*****
 Total cases today: 5
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 3
@@ -1214,7 +1159,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Maine, US*****
-*****Country: US*****
 Total cases today: 17
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 16
@@ -1223,7 +1167,6 @@ Predicted cases in one week: 11
 Predicted cases in two weeks: 7
 Predicted cases in one month: 2
 *****Country: Michigan, US*****
-*****Country: US*****
 Total cases today: 53
 Predicted increase tomorrow: 29
 Total predicted confirmed cases for tomorrow: 82
@@ -1232,7 +1175,6 @@ Predicted cases in one week: 1134
 Predicted cases in two weeks: 24265
 Predicted cases in one month: 26657437
 *****Country: Mississippi, US*****
-*****Country: US*****
 Total cases today: 13
 Predicted increase tomorrow: 1
 Total predicted confirmed cases for tomorrow: 14
@@ -1241,7 +1183,6 @@ Predicted cases in one week: 24
 Predicted cases in two weeks: 47
 Predicted cases in one month: 209
 *****Country: Montana, US*****
-*****Country: US*****
 Total cases today: 7
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 7
@@ -1250,7 +1191,6 @@ Predicted cases in one week: 9
 Predicted cases in two weeks: 12
 Predicted cases in one month: 22
 *****Country: New Mexico, US*****
-*****Country: US*****
 Total cases today: 17
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 17
@@ -1259,7 +1199,6 @@ Predicted cases in one week: 20
 Predicted cases in two weeks: 25
 Predicted cases in one month: 38
 *****Country: North Dakota, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -1268,7 +1207,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: South Dakota, US*****
-*****Country: US*****
 Total cases today: 10
 Predicted increase tomorrow: 3
 Total predicted confirmed cases for tomorrow: 13
@@ -1277,7 +1215,6 @@ Predicted cases in one week: 70
 Predicted cases in two weeks: 503
 Predicted cases in one month: 44340
 *****Country: West Virginia, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1286,7 +1223,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Wyoming, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -1295,7 +1231,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Hubei, China*****
-*****Country: China*****
 Total cases today: 67798
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 67798
@@ -1320,7 +1255,6 @@ Predicted cases in one week: 9525
 Predicted cases in two weeks: 11017
 Predicted cases in one month: 15401
 *****Country: France, France*****
-*****Country: France*****
 Total cases today: 6633
 Predicted increase tomorrow: 1837
 Total predicted confirmed cases for tomorrow: 8470
@@ -1329,7 +1263,6 @@ Predicted cases in one week: 36732
 Predicted cases in two weeks: 203414
 Predicted cases in one month: 10172700
 *****Country: Guangdong, China*****
-*****Country: China*****
 Total cases today: 1361
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 1361
@@ -1338,7 +1271,6 @@ Predicted cases in one week: 1361
 Predicted cases in two weeks: 1361
 Predicted cases in one month: 1361
 *****Country: Henan, China*****
-*****Country: China*****
 Total cases today: 1273
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 1273
@@ -1347,7 +1279,6 @@ Predicted cases in one week: 1273
 Predicted cases in two weeks: 1273
 Predicted cases in one month: 1273
 *****Country: Zhejiang, China*****
-*****Country: China*****
 Total cases today: 1231
 Predicted increase tomorrow: 1
 Total predicted confirmed cases for tomorrow: 1232
@@ -1356,7 +1287,6 @@ Predicted cases in one week: 1239
 Predicted cases in two weeks: 1248
 Predicted cases in one month: 1267
 *****Country: Hunan, China*****
-*****Country: China*****
 Total cases today: 1018
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 1018
@@ -1365,7 +1295,6 @@ Predicted cases in one week: 1018
 Predicted cases in two weeks: 1018
 Predicted cases in one month: 1018
 *****Country: Anhui, China*****
-*****Country: China*****
 Total cases today: 990
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 990
@@ -1374,7 +1303,6 @@ Predicted cases in one week: 990
 Predicted cases in two weeks: 990
 Predicted cases in one month: 990
 *****Country: Jiangxi, China*****
-*****Country: China*****
 Total cases today: 935
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 935
@@ -1383,7 +1311,6 @@ Predicted cases in one week: 935
 Predicted cases in two weeks: 935
 Predicted cases in one month: 935
 *****Country: Shandong, China*****
-*****Country: China*****
 Total cases today: 760
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 760
@@ -1392,7 +1319,6 @@ Predicted cases in one week: 760
 Predicted cases in two weeks: 760
 Predicted cases in one month: 760
 *****Country: Diamond Princess, Cruise Ship*****
-*****Country: Cruise Ship*****
 Total cases today: 696
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 696
@@ -1401,7 +1327,6 @@ Predicted cases in one week: 696
 Predicted cases in two weeks: 696
 Predicted cases in one month: 696
 *****Country: Jiangsu, China*****
-*****Country: China*****
 Total cases today: 631
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 631
@@ -1410,7 +1335,6 @@ Predicted cases in one week: 631
 Predicted cases in two weeks: 631
 Predicted cases in one month: 631
 *****Country: Chongqing, China*****
-*****Country: China*****
 Total cases today: 576
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 576
@@ -1419,7 +1343,6 @@ Predicted cases in one week: 576
 Predicted cases in two weeks: 576
 Predicted cases in one month: 576
 *****Country: Sichuan, China*****
-*****Country: China*****
 Total cases today: 539
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 539
@@ -1428,7 +1351,6 @@ Predicted cases in one week: 539
 Predicted cases in two weeks: 539
 Predicted cases in one month: 539
 *****Country: Heilongjiang, China*****
-*****Country: China*****
 Total cases today: 482
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 482
@@ -1437,7 +1359,6 @@ Predicted cases in one week: 482
 Predicted cases in two weeks: 482
 Predicted cases in one month: 482
 *****Country: Denmark, Denmark*****
-*****Country: Denmark*****
 Total cases today: 914
 Predicted increase tomorrow: 503
 Total predicted confirmed cases for tomorrow: 1417
@@ -1446,7 +1367,6 @@ Predicted cases in one week: 19734
 Predicted cases in two weeks: 426099
 Predicted cases in one month: 477859399
 *****Country: Beijing, China*****
-*****Country: China*****
 Total cases today: 452
 Predicted increase tomorrow: 2
 Total predicted confirmed cases for tomorrow: 454
@@ -1455,7 +1375,6 @@ Predicted cases in one week: 468
 Predicted cases in two weeks: 484
 Predicted cases in one month: 524
 *****Country: Shanghai, China*****
-*****Country: China*****
 Total cases today: 355
 Predicted increase tomorrow: 1
 Total predicted confirmed cases for tomorrow: 356
@@ -1464,7 +1383,6 @@ Predicted cases in one week: 367
 Predicted cases in two weeks: 380
 Predicted cases in one month: 411
 *****Country: Hebei, China*****
-*****Country: China*****
 Total cases today: 318
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 318
@@ -1473,7 +1391,6 @@ Predicted cases in one week: 318
 Predicted cases in two weeks: 318
 Predicted cases in one month: 318
 *****Country: Fujian, China*****
-*****Country: China*****
 Total cases today: 296
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 296
@@ -1482,7 +1399,6 @@ Predicted cases in one week: 296
 Predicted cases in two weeks: 296
 Predicted cases in one month: 296
 *****Country: Guangxi, China*****
-*****Country: China*****
 Total cases today: 252
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 252
@@ -1491,7 +1407,6 @@ Predicted cases in one week: 252
 Predicted cases in two weeks: 252
 Predicted cases in one month: 252
 *****Country: Shaanxi, China*****
-*****Country: China*****
 Total cases today: 245
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 245
@@ -1500,7 +1415,6 @@ Predicted cases in one week: 245
 Predicted cases in two weeks: 245
 Predicted cases in one month: 245
 *****Country: Yunnan, China*****
-*****Country: China*****
 Total cases today: 176
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 176
@@ -1509,7 +1423,6 @@ Predicted cases in one week: 177
 Predicted cases in two weeks: 178
 Predicted cases in one month: 181
 *****Country: Hainan, China*****
-*****Country: China*****
 Total cases today: 168
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 168
@@ -1518,7 +1431,6 @@ Predicted cases in one week: 168
 Predicted cases in two weeks: 168
 Predicted cases in one month: 168
 *****Country: Guizhou, China*****
-*****Country: China*****
 Total cases today: 146
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 146
@@ -1527,7 +1439,6 @@ Predicted cases in one week: 146
 Predicted cases in two weeks: 146
 Predicted cases in one month: 146
 *****Country: Tianjin, China*****
-*****Country: China*****
 Total cases today: 136
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 136
@@ -1536,7 +1447,6 @@ Predicted cases in one week: 136
 Predicted cases in two weeks: 136
 Predicted cases in one month: 136
 *****Country: Shanxi, China*****
-*****Country: China*****
 Total cases today: 133
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 133
@@ -1545,7 +1455,6 @@ Predicted cases in one week: 133
 Predicted cases in two weeks: 133
 Predicted cases in one month: 133
 *****Country: Gansu, China*****
-*****Country: China*****
 Total cases today: 133
 Predicted increase tomorrow: 1
 Total predicted confirmed cases for tomorrow: 134
@@ -1554,7 +1463,6 @@ Predicted cases in one week: 144
 Predicted cases in two weeks: 157
 Predicted cases in one month: 190
 *****Country: Hong Kong, China*****
-*****Country: China*****
 Total cases today: 155
 Predicted increase tomorrow: 5
 Total predicted confirmed cases for tomorrow: 160
@@ -1563,7 +1471,6 @@ Predicted cases in one week: 201
 Predicted cases in two weeks: 261
 Predicted cases in one month: 474
 *****Country: Liaoning, China*****
-*****Country: China*****
 Total cases today: 125
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 125
@@ -1572,7 +1479,6 @@ Predicted cases in one week: 125
 Predicted cases in two weeks: 125
 Predicted cases in one month: 125
 *****Country: Jilin, China*****
-*****Country: China*****
 Total cases today: 93
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 93
@@ -1589,7 +1495,6 @@ Predicted cases in one week: 2590
 Predicted cases in two weeks: 22526
 Predicted cases in one month: 3158853
 *****Country: Xinjiang, China*****
-*****Country: China*****
 Total cases today: 76
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 76
@@ -1598,7 +1503,6 @@ Predicted cases in one week: 76
 Predicted cases in two weeks: 76
 Predicted cases in one month: 76
 *****Country: Inner Mongolia, China*****
-*****Country: China*****
 Total cases today: 75
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 75
@@ -1607,7 +1511,6 @@ Predicted cases in one week: 75
 Predicted cases in two weeks: 75
 Predicted cases in one month: 75
 *****Country: Ningxia, China*****
-*****Country: China*****
 Total cases today: 75
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 75
@@ -1640,7 +1543,6 @@ Predicted cases in one week: 385
 Predicted cases in two weeks: 1651
 Predicted cases in one month: 45918
 *****Country: Qinghai, China*****
-*****Country: China*****
 Total cases today: 18
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 18
@@ -1649,7 +1551,6 @@ Predicted cases in one week: 18
 Predicted cases in two weeks: 18
 Predicted cases in one month: 18
 *****Country: Macau, China*****
-*****Country: China*****
 Total cases today: 11
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 11
@@ -1674,7 +1575,6 @@ Predicted cases in one week: 10
 Predicted cases in two weeks: 9
 Predicted cases in one month: 8
 *****Country: Faroe Islands, Denmark*****
-*****Country: Denmark*****
 Total cases today: 18
 Predicted increase tomorrow: 7
 Total predicted confirmed cases for tomorrow: 25
@@ -1683,7 +1583,6 @@ Predicted cases in one week: 226
 Predicted cases in two weeks: 2853
 Predicted cases in one month: 933051
 *****Country: St Martin, France*****
-*****Country: France*****
 Total cases today: 2
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 1
@@ -1700,7 +1599,6 @@ Predicted cases in one week: 1
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Channel Islands, United Kingdom*****
-*****Country: United Kingdom*****
 Total cases today: 6
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 5
@@ -1709,7 +1607,6 @@ Predicted cases in one week: 4
 Predicted cases in two weeks: 2
 Predicted cases in one month: 1
 *****Country: New Brunswick, Canada*****
-*****Country: Canada*****
 Total cases today: 6
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 5
@@ -1718,7 +1615,6 @@ Predicted cases in one week: 2
 Predicted cases in two weeks: 1
 Predicted cases in one month: 0
 *****Country: Tibet, China*****
-*****Country: China*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 1
@@ -1743,7 +1639,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Saint Barthelemy, France*****
-*****Country: France*****
 Total cases today: 3
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 3
@@ -1776,7 +1671,6 @@ Predicted cases in one week: 72
 Predicted cases in two weeks: 291
 Predicted cases in one month: 7015
 *****Country: Gibraltar, United Kingdom*****
-*****Country: United Kingdom*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 1
@@ -1785,7 +1679,6 @@ Predicted cases in one week: 1
 Predicted cases in two weeks: 1
 Predicted cases in one month: 1
 *****Country: Kitsap, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1794,7 +1687,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Solano, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1803,7 +1695,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Santa Cruz, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1812,7 +1703,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Napa, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1821,7 +1711,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Ventura, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1830,7 +1719,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Worcester, MA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1839,7 +1727,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Gwinnett, GA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1848,7 +1735,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: DeKalb, GA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1857,7 +1743,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Floyd, GA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1866,7 +1751,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Fayette, GA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1875,7 +1759,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Gregg, TX, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1884,7 +1767,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Monmouth, NJ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1893,7 +1775,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Burlington, NJ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1902,7 +1783,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Camden, NJ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1911,7 +1791,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Passaic, NJ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1920,7 +1799,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Union, NJ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1929,7 +1807,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Eagle, CO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1938,7 +1815,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Larimer, CO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1947,7 +1823,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Arapahoe, CO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1956,7 +1831,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Gunnison, CO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1965,7 +1839,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Kane, IL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1974,7 +1847,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Monroe, PA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1983,7 +1855,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Philadelphia, PA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -1992,7 +1863,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Norfolk, VA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2001,7 +1871,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Arlington, VA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2010,7 +1879,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Spotsylvania, VA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2019,7 +1887,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Loudoun, VA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2028,7 +1895,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Prince George's, MD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2037,7 +1903,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pottawattamie, IA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2046,7 +1911,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Camden, NC, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2055,7 +1919,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pima, AZ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2064,7 +1927,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Noble, IN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2073,7 +1935,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Adams, IN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2082,7 +1943,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Boone, IN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2091,7 +1951,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Dane, WI, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2100,7 +1959,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pierce, WI, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2109,7 +1967,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Cuyahoga, OH, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2118,7 +1975,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Weber, UT, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2127,7 +1983,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Bennington County, VT, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2136,7 +1991,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Carver County, MN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2145,7 +1999,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Charlotte County, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2154,7 +2007,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Cherokee County, GA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2163,7 +2015,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Collin County, TX, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2172,7 +2023,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Jefferson County, KY, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2181,7 +2031,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Jefferson Parish, LA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2190,7 +2039,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Shasta County, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2199,7 +2047,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Spartanburg County, SC, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2208,7 +2055,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Harrison County, KY, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2217,7 +2063,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Johnson County, IA, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 0
@@ -2226,7 +2071,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Berkshire County, MA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2235,7 +2079,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Davidson County, TN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2244,7 +2087,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Douglas County, OR, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2253,7 +2095,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Fresno County, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2262,7 +2103,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Harford County, MD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2271,7 +2111,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Hendricks County, IN, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2280,7 +2119,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Hudson County, NJ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2289,7 +2127,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Johnson County, KS, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2298,7 +2135,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Kittitas County, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2307,7 +2143,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Manatee County, FL, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2316,7 +2151,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Marion County, OR, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2325,7 +2159,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Okaloosa County, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2334,7 +2167,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Polk County, GA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2343,7 +2175,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Riverside County, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2352,7 +2183,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Shelby County, TN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2361,7 +2191,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: St. Louis County, MO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2370,7 +2199,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Suffolk County, NY, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2379,7 +2207,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Ulster County, NY, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2388,7 +2215,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Volusia County, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2397,7 +2223,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Fairfax County, VA, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2406,7 +2231,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Rockingham County, NH, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2415,7 +2239,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Washington, D.C., US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2424,7 +2247,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Montgomery County, PA, US*****
-*****Country: US*****
 Total cases today: 5
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 2
@@ -2433,7 +2255,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Alameda County, CA, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2442,7 +2263,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Broward County, FL, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -2451,7 +2271,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Lee County, FL, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2460,7 +2279,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pinal County, AZ, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2469,7 +2287,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Rockland County, NY, US*****
-*****Country: US*****
 Total cases today: 4
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 2
@@ -2478,7 +2295,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Saratoga County, NY, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2487,7 +2303,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Charleston County, SC, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2496,7 +2311,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Clark County, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2505,7 +2319,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Cobb County, GA, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -2514,7 +2327,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Davis County, UT, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2523,7 +2335,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: El Paso County, CO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2532,7 +2343,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Honolulu County, HI, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2541,7 +2351,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Jackson County, OR , US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2550,7 +2359,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Jefferson County, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2559,7 +2367,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Kershaw County, SC, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2568,7 +2375,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Klamath County, OR, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2577,7 +2383,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Madera County, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2586,7 +2391,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pierce County, WA, US*****
-*****Country: US*****
 Total cases today: 4
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 2
@@ -2595,7 +2399,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Tulsa County, OK, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2604,7 +2407,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Douglas County, CO, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -2613,7 +2415,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Providence County, RI, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -2622,7 +2423,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Chatham County, NC, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2631,7 +2431,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Delaware County, PA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2640,7 +2439,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Douglas County, NE, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -2649,7 +2447,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Fayette County, KY, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2658,7 +2455,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Marion County, IN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2667,7 +2463,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Middlesex County, MA, US*****
-*****Country: US*****
 Total cases today: 7
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 6
@@ -2676,7 +2471,6 @@ Predicted cases in one week: 3
 Predicted cases in two weeks: 1
 Predicted cases in one month: 0
 *****Country: Nassau County, NY, US*****
-*****Country: US*****
 Total cases today: 17
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 14
@@ -2685,7 +2479,6 @@ Predicted cases in one week: 6
 Predicted cases in two weeks: 2
 Predicted cases in one month: 0
 *****Country: Ramsey County, MN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2694,7 +2487,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Washoe County, NV, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2703,7 +2495,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Wayne County, PA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2712,7 +2503,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Yolo County, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2721,7 +2511,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Santa Clara County, CA, US*****
-*****Country: US*****
 Total cases today: 38
 Predicted increase tomorrow: -23
 Total predicted confirmed cases for tomorrow: 14
@@ -2730,7 +2519,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Clark County, NV, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2739,7 +2527,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Fort Bend County, TX, US*****
-*****Country: US*****
 Total cases today: 6
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 3
@@ -2748,7 +2535,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Grant County, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2757,7 +2543,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Santa Rosa County, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2766,7 +2551,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Williamson County, TN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2775,7 +2559,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: New York County, NY, US*****
-*****Country: US*****
 Total cases today: 19
 Predicted increase tomorrow: -12
 Total predicted confirmed cases for tomorrow: 6
@@ -2784,7 +2567,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Montgomery County, MD, US*****
-*****Country: US*****
 Total cases today: 4
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 1
@@ -2793,7 +2575,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Suffolk County, MA, US*****
-*****Country: US*****
 Total cases today: 8
 Predicted increase tomorrow: -4
 Total predicted confirmed cases for tomorrow: 3
@@ -2802,7 +2583,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Denver County, CO, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2811,7 +2591,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Summit County, CO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2820,7 +2599,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Bergen County, NJ, US*****
-*****Country: US*****
 Total cases today: 4
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 1
@@ -2829,7 +2607,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Harris County, TX, US*****
-*****Country: US*****
 Total cases today: 6
 Predicted increase tomorrow: -3
 Total predicted confirmed cases for tomorrow: 2
@@ -2838,7 +2615,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: San Francisco County, CA, US*****
-*****Country: US*****
 Total cases today: 9
 Predicted increase tomorrow: -3
 Total predicted confirmed cases for tomorrow: 5
@@ -2847,7 +2623,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Contra Costa County, CA, US*****
-*****Country: US*****
 Total cases today: 9
 Predicted increase tomorrow: -4
 Total predicted confirmed cases for tomorrow: 4
@@ -2856,7 +2631,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Orange County, CA, US*****
-*****Country: US*****
 Total cases today: 4
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 1
@@ -2865,7 +2639,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Norfolk County, MA, US*****
-*****Country: US*****
 Total cases today: 6
 Predicted increase tomorrow: -3
 Total predicted confirmed cases for tomorrow: 3
@@ -2874,7 +2647,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Maricopa County, AZ, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2883,7 +2655,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Wake County, NC, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2892,7 +2663,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Westchester County, NY, US*****
-*****Country: US*****
 Total cases today: 98
 Predicted increase tomorrow: -42
 Total predicted confirmed cases for tomorrow: 55
@@ -2901,7 +2671,6 @@ Predicted cases in one week: 1
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Grafton County, NH, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -2910,7 +2679,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Hillsborough, FL, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2919,7 +2687,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Placer County, CA, US*****
-*****Country: US*****
 Total cases today: 7
 Predicted increase tomorrow: -4
 Total predicted confirmed cases for tomorrow: 2
@@ -2928,7 +2695,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: San Mateo, CA, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -2937,7 +2703,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Sonoma County, CA, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -2946,7 +2711,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Umatilla, OR, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2955,7 +2719,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Fulton County, GA, US*****
-*****Country: US*****
 Total cases today: 5
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 2
@@ -2964,7 +2727,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Washington County, OR, US*****
-*****Country: US*****
 Total cases today: 8
 Predicted increase tomorrow: -3
 Total predicted confirmed cases for tomorrow: 4
@@ -2973,7 +2735,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Snohomish County, WA, US*****
-*****Country: US*****
 Total cases today: 31
 Predicted increase tomorrow: -19
 Total predicted confirmed cases for tomorrow: 11
@@ -2982,7 +2743,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Humboldt County, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -2991,7 +2751,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Sacramento County, CA, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3000,7 +2759,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: San Diego County, CA, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 0
@@ -3009,7 +2767,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: San Benito, CA, US*****
-*****Country: US*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3018,7 +2775,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Los Angeles, CA, US*****
-*****Country: US*****
 Total cases today: 14
 Predicted increase tomorrow: -9
 Total predicted confirmed cases for tomorrow: 4
@@ -3027,7 +2783,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: King County, WA, US*****
-*****Country: US*****
 Total cases today: 83
 Predicted increase tomorrow: -54
 Total predicted confirmed cases for tomorrow: 28
@@ -3036,7 +2791,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Cook County, IL, US*****
-*****Country: US*****
 Total cases today: 7
 Predicted increase tomorrow: -4
 Total predicted confirmed cases for tomorrow: 2
@@ -3045,7 +2799,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Skagit, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3054,7 +2807,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Thurston, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3063,7 +2815,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Island, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3072,7 +2823,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Whatcom, WA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3081,7 +2831,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Marin, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3090,7 +2839,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Calaveras, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3099,7 +2847,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Stanislaus, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3108,7 +2855,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: San Joaquin, CA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3117,7 +2863,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Essex, MA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3126,7 +2871,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Charlton, GA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3135,7 +2879,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Collier, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3144,7 +2887,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pinellas, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3153,7 +2895,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Alachua, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3162,7 +2903,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Nassau, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3171,7 +2911,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pasco, FL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3180,7 +2919,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Dallas, TX, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3189,7 +2927,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Tarrant, TX, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3198,7 +2935,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Montgomery, TX, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3207,7 +2943,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Middlesex, NJ, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3216,7 +2951,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Jefferson, CO, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3225,7 +2959,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Multnomah, OR, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3234,7 +2967,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Polk, OR, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3243,7 +2975,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Deschutes, OR, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3252,7 +2983,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: McHenry, IL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3261,7 +2991,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Lake, IL, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3270,7 +2999,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Bucks, PA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3279,7 +3007,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Hanover, VA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3288,7 +3015,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Lancaster, SC, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3297,7 +3023,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Sullivan, TN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3306,7 +3031,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Johnson, IN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3315,7 +3039,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Howard, IN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3324,7 +3047,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: St. Joseph, IN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3333,7 +3055,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Knox, NE, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3342,7 +3063,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Stark, OH, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3351,7 +3071,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Anoka, MN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3360,7 +3079,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Olmsted, MN, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3369,7 +3087,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Summit, UT, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3378,7 +3095,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Fairfield, CT, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3387,7 +3103,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Litchfield, CT, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3396,7 +3111,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Orleans, LA, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3405,7 +3119,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Pennington, SD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3414,7 +3127,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Beadle, SD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3423,7 +3135,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Charles Mix, SD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3432,7 +3143,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Davison, SD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3441,7 +3151,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Minnehaha, SD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3450,7 +3159,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Bon Homme, SD, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3459,7 +3167,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Socorro, NM, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3468,7 +3175,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Bernalillo, NM, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3477,7 +3183,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Oakland, MI, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3486,7 +3191,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Wayne, MI, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3495,7 +3199,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: New Castle, DE, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 0
@@ -3520,7 +3223,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Australian Capital Territory, Australia*****
-*****Country: Australia*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -3529,7 +3231,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: United Kingdom, United Kingdom*****
-*****Country: United Kingdom*****
 Total cases today: 1543
 Predicted increase tomorrow: 413
 Total predicted confirmed cases for tomorrow: 1956
@@ -3546,7 +3247,6 @@ Predicted cases in one week: 2
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: French Polynesia, France*****
-*****Country: France*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -3563,7 +3263,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Manitoba, Canada*****
-*****Country: Canada*****
 Total cases today: 7
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 5
@@ -3572,7 +3271,6 @@ Predicted cases in one week: 1
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Saskatchewan, Canada*****
-*****Country: Canada*****
 Total cases today: 7
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 5
@@ -3613,7 +3311,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Grand Princess, Canada*****
-*****Country: Canada*****
 Total cases today: 2
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -3638,7 +3335,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Alabama, US*****
-*****Country: US*****
 Total cases today: 29
 Predicted increase tomorrow: 1
 Total predicted confirmed cases for tomorrow: 30
@@ -3663,7 +3359,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Puerto Rico, US*****
-*****Country: US*****
 Total cases today: 5
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 2
@@ -3792,7 +3487,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: French Guiana, France*****
-*****Country: France*****
 Total cases today: 5
 Predicted increase tomorrow: 2
 Total predicted confirmed cases for tomorrow: 7
@@ -3801,7 +3495,6 @@ Predicted cases in one week: 55
 Predicted cases in two weeks: 619
 Predicted cases in one month: 153031
 *****Country: Guam, US*****
-*****Country: US*****
 Total cases today: 3
 Predicted increase tomorrow: -1
 Total predicted confirmed cases for tomorrow: 1
@@ -3818,7 +3511,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Newfoundland and Labrador, Canada*****
-*****Country: Canada*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -3827,7 +3519,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Prince Edward Island, Canada*****
-*****Country: Canada*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -3860,7 +3551,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Mayotte, France*****
-*****Country: France*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -3877,7 +3567,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Netherlands, Netherlands*****
-*****Country: Netherlands*****
 Total cases today: 1413
 Predicted increase tomorrow: 397
 Total predicted confirmed cases for tomorrow: 1810
@@ -3894,7 +3583,6 @@ Predicted cases in one week: 21
 Predicted cases in two weeks: 41
 Predicted cases in one month: 191
 *****Country: Nova Scotia, Canada*****
-*****Country: Canada*****
 Total cases today: 5
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 2
@@ -3903,7 +3591,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Guadeloupe, France*****
-*****Country: France*****
 Total cases today: 3
 Predicted increase tomorrow: -2
 Total predicted confirmed cases for tomorrow: 0
@@ -3960,7 +3647,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Curacao, Netherlands*****
-*****Country: Netherlands*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -4001,7 +3687,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Virgin Islands, US*****
-*****Country: US*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0
@@ -4010,7 +3695,6 @@ Predicted cases in one week: 0
 Predicted cases in two weeks: 0
 Predicted cases in one month: 0
 *****Country: Cayman Islands, United Kingdom*****
-*****Country: United Kingdom*****
 Total cases today: 1
 Predicted increase tomorrow: 0
 Total predicted confirmed cases for tomorrow: 0

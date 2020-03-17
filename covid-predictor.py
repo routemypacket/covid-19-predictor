@@ -152,7 +152,8 @@ def predict (exp_list,a,country,province):
     # Append to list for human readable data
     if province:
         countries_data_list.append("*****Country: " + province + ", " + country + "*****")
-    countries_data_list.append("*****Country: " + country + "*****")
+    else:
+        countries_data_list.append("*****Country: " + country + "*****")
     countries_data_list.append("Total cases today: " + str(cases_today))
     countries_data_list.append("Predicted increase tomorrow: " + str(predicted_increase))
     countries_data_list.append("Total predicted confirmed cases for tomorrow: " + str(total_cases))
