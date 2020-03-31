@@ -12,7 +12,7 @@ print ("Calculating expected cases rises in" + sys.argv[1] + "tomorrow, in two w
 
 # define a value of a to multiply with the first value of cases in for loop
 a = 1
-# define a calue to reduce decimals to two places
+# define a value to reduce decimals to two places
 TWOPLACES = Decimal(10) ** -2
 # define list to be used to stope all exp values (exponential values)
 exp_list = []
